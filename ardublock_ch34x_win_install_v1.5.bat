@@ -1,4 +1,4 @@
-@echo off
+@echo on
 set LOGFILE=batch.log
 call :LOG > %LOGFILE%
 exit /B
