@@ -1,0 +1,80 @@
+Version 1.5
+Current time is 06/08/2020:17:09:45.56
+Installing CH341 Driver...
+
+Copying files for C:\Users\BarnabasRobotics
+ 
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\keywords.txt
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\library.properties
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\README.md
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing15SensorsTimer\NewPing15SensorsTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing3Sensors\NewPing3Sensors.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingEventTimer\NewPingEventTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingExample\NewPingExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingTimerMedian\NewPingTimerMedian.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\TimerExample\TimerExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.cpp
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.h
+11 File(s) copied
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ardublock-all-withNewPing.jar
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ArduBlock Archive\ardublock-all-201610.jar
+2 File(s) copied
+
+Copying files for C:\Users\Default.migrated
+ 
+0 File(s) copied
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ardublock-all-withNewPing.jar
+
+Copying files for C:\Users\edwardbarnabas
+ 
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\keywords.txt
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\library.properties
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\README.md
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing15SensorsTimer\NewPing15SensorsTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing3Sensors\NewPing3Sensors.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingEventTimer\NewPingEventTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingExample\NewPingExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingTimerMedian\NewPingTimerMedian.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\TimerExample\TimerExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.cpp
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.h
+11 File(s) copied
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ardublock-all-withNewPing.jar
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ArduBlock Archive\ardublock-all-201610.jar
+2 File(s) copied
+
+Copying files for C:\Users\Public
+ 
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\keywords.txt
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\library.properties
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\README.md
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing15SensorsTimer\NewPing15SensorsTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing3Sensors\NewPing3Sensors.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingEventTimer\NewPingEventTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingExample\NewPingExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingTimerMedian\NewPingTimerMedian.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\TimerExample\TimerExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.cpp
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.h
+11 File(s) copied
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ardublock-all-withNewPing.jar
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ArduBlock Archive\ardublock-all-201610.jar
+2 File(s) copied
+
+Copying files for C:\Users\Victoria
+ 
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\keywords.txt
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\library.properties
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\README.md
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing15SensorsTimer\NewPing15SensorsTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPing3Sensors\NewPing3Sensors.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingEventTimer\NewPingEventTimer.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingExample\NewPingExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\NewPingTimerMedian\NewPingTimerMedian.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\examples\TimerExample\TimerExample.pde
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.cpp
+C:\Users\edwardbarnabas\dev\ardublock-batch\libraries\NewPing\src\NewPing.h
+11 File(s) copied
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ardublock-all-withNewPing.jar
+C:\Users\edwardbarnabas\dev\ardublock-batch\tools\ArduBlockTool\tool\ArduBlock Archive\ardublock-all-201610.jar
+2 File(s) copied
