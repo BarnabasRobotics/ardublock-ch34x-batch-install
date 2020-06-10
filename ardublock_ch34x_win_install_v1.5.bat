@@ -1,4 +1,4 @@
-@echo on
+@echo off
 set LOGFILE=batch.log
 call :LOG > %LOGFILE%
 exit /B
@@ -29,13 +29,23 @@ for /d %%a in (C:\Users\*) do (
     echo Copying files for %%a
     @echo: 
 
+    :: remove previous versions of Ardublock
+    IF EXIST "%%a\%ARDUPATH%" (
+        md "%%a\%ARDUPATH%"
+        rmdir "%%a\%ARDUPATH%" /s /q
+    )
+
+
     IF NOT EXIST "%%a\%LIBPATH%" (
         md "%%a\%LIBPATH%"
     )
     IF NOT EXIST "%%a\%ARDUPATH%" (
         md "%%a\%ARDUPATH%"
     )
+
     xcopy /y %CD%\libraries\* "%%a\%LIBPATH%" /s /i
     xcopy /y %CD%\tools\ArduBlockTool\tool\* "%%a\%ARDUPATH%" /s /i
+
+ 
 )
 
